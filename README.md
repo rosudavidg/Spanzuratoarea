@@ -1,3 +1,1 @@
 # Spanzuratoarea
-Danut:D
-Hello
